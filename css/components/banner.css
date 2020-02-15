@@ -1,0 +1,17 @@
+.banner-with-flat-filter {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('images/cafei.jpg');
+}
+}
+
+.banner h1{
+	font-size: 80px;
+	font-family: 'Amatic SC', cursive;
+	width: bolder;
+}
+
+.banner h2{
+	font-size: 25px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
